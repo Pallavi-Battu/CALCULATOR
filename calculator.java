@@ -1,9 +1,9 @@
 
 public class calculator {
     public static void main(String[] args) {
-        double num1 = 10; // First number
-        double num2 = 5;  // Second number
-        char operation = '+'; // Operation to perform (+, -, *, /)
+        double num1 = 10; 
+        double num2 = 5;
+        char operation = '+'; 
 
         double result = 0;
         boolean validOperation = true;
